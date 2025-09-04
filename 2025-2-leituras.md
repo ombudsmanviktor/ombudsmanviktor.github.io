@@ -17,134 +17,154 @@ Horário: Quintas-feiras às 18h
 ## Programa
 
 
-### 27/3
+### 04/09
 
-Apresentação Geral.
+**NOITE DO BOLINHO**
 
----
+Orientação Coletiva
 
-### 03/04
-
-Leitura
-{: .label .label-purple } 
-
-Budak, C., Nyhan, B., Rothschild, D.M. et al. Misunderstanding the harms of online misinformation. Nature 630, 45–53 (2024). https://doi.org/10.1038/s41586-024-07417-w
-
-Saumure, R., De Freitas, J. & Puntoni, S. Humor as a window into generative AI bias. Sci Rep 15, 1326 (2025). https://doi.org/10.1038/s41598-024-83384-6
-
----
-
-### 10/04
+Definições de Prazos
 
 Leitura
 {: .label .label-purple } 
 
-Mendonça, R. F., Almeida, V., Filgueiras, F. (2024). Algorithmic Institutionalism: The Changing Rules of Social and Political Life. Capítulos 1 e 2
-
-
----
-
-### 17/04
-
-**NOITE DO BOLINHO?** (Quinta-feira santa)
+Barros, José D Assunção. Hipóteses nas ciências humanas: Aspectos metodológicos
 
 ---
 
-### 24/04
+### 05/09
+
+Banca
+{: .label .label-red } 
+
+Qualificação Letícia Sabbatini
+
+---
+
+### 11/09
 
 Leitura
 {: .label .label-purple } 
 
-Artigos Compolítica
-
-
----
-
-### 01/05
-
-**FERIADO** (1º de Maio)
+Bennett, W. L., & Segerberg, A. The Logic of Connective Action. https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.670661
 
 ---
 
-### 08/05
+### 17/09
 
-Crawford, K. (2021). Atlas of IA. Capítulos 3 e 4.
+Banca
+{: .label .label-red } 
 
----
-
-### 15/05
-
-**COMPOLÍTICA**
+Qualificação Dindara Rocha
 
 ---
 
-### 22/05
+### 18/09
 
 Leitura
 {: .label .label-purple } 
 
-Janusz, A. (2017). Candidate race and electoral outcomes: evidence from Brazil. Politics, Groups, and Identities, 6(4), 702–724. https://doi.org/10.1080/21565503.2017.1279976
-
-Johnson, L. (2014), Race in the Color-blind Era: Deracialization and Black Elected Officials. Sociology Compass, 8: 1100-1111. https://doi.org/10.1111/soc4.12179
+Bimber, B., Flanagin, A., & Stohl, C. Collective Action in Organizations. Capítulo 3
 
 ---
 
-### 29/05
-
-Meikle, G. Deepfakes. Capítulo 4
-
----
-
-### 05/06
+### 25/09
 
 Leitura
 {: .label .label-purple } 
 
-Discussão de Material de Qualificação: Dindara
+Gerbaudo, P. Redes e Ruas. Prefácio e Introdução
+
+Prudencio, K. Das Redes Sociais às Redes Digitais: A Trajetória do Ativismo na Internet
 
 ---
 
-### 12/06
-
-**COMPÓS**
-
----
-
-### 19/06
-
-**FERIADO** (Corpus Christi)
-
----
-
-### 26/06
-
-**LIVRE**
-
----
-
-### 03/07
+### 02/10
 
 Leitura
 {: .label .label-purple } 
 
-Discussão de Material de Qualificação: Gabi
+Costa, Mariane. Candidaturas compartilhadas e mandatos coletivos: do ativismo à presença político-institucional de mulheres negras nas eleições de 2020
 
 ---
 
-### 10/07
+### 09/10
+
+Orientação Coletiva
 
 Leitura
 {: .label .label-purple } 
 
-Mills, C. W. (2023). O Contrato Racial. Introdução e Capítulo 1
-
-Bento, C. (2022). O Pacto da Branquitude. Capítulos 1, 4, 5 e 7
-
-Leitura
-{: .label .label-purple } 
-
-Sodré, M. (2023). O fascismo da cor. Capítulo 1
+Figueiredo, Angela, & Leite, Naiara. Nosso tempo é agora! Mobilização política e transformações das imagens de controle das mulheres negras
 
 ---
 
+### 16/10
+
+**AoIR**
+
+---
+
+### 21/10
+
+Palestra
+{: .label .label-red } 
+
+Atividade Obrigatória. Georgios Terzis
+
+---
+
+### 23/10
+
+**SEMANA ACADÊMICA**
+
+---
+
+### 30/10
+
+Discussão da Dissertação de Alexandre
+
+---
+
+### 06/11
+
+Discussão de Material de Qualificação Gabi
+
+---
+
+### 13/11
+
+**SEMINÁRIO HISTÓRIA CULTURAL E HUMOR**
+
+---
+
+### 20/11
+
+**FERIADO**
+
+---
+
+### 27/11
+
+Orientação Coletiva
+
+---
+
+### 04/12
+
+[ATIVIDADE NÃO DEFINIDA]
+
+---
+
+### 11/12
+
+[ATIVIDADE NÃO DEFINIDA]
+
+---
+
+### 18/12
+
+[ATIVIDADE NÃO DEFINIDA]
+
+---
 
