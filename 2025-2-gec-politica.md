@@ -178,7 +178,7 @@ PARK, Robert. Notícia e poder da imprensa.
 
 ### 13/11
 
-**AULA FELIPE (HISTÓRIA CULTURA E HUMOR)**
+**AULA FELIPE (HISTÓRIA CULTURAL E HUMOR)**
 
 Escândalo político.
 
