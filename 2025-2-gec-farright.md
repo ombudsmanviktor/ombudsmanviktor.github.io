@@ -105,7 +105,7 @@ Leituras Recomendadas
 Leituras Complementares
 {: .label .label-purple } 
 
-> Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). The European roots of alt-right ideology. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
+> Traverso, E. (2023). As Novas Faces do Fascismo: populismo e a extrema-direita. Parte 1.1
 >
 > Reis, D. A. (2020). A Extrema-Direita Brasileira: Uma Concepção Política Autoritária em Formação
 
