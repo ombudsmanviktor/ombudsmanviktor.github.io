@@ -230,28 +230,20 @@ Atividade
 
 Unidade III: Participação Política
 
-~Aula: Extrema-Direita e Plataformas Digitais I: Operações de influência e algoritmização da política.~
-
 Aula: Extrema-Direita e Plataformas Digitais II: Redes de mídia alternativa e alt-techs: métodos para pesquisar plataformas digitais e comunidades online de direita.
 
 Leituras Recomendadas
 {: .label .label-purple } 
-
-> ~Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Gaming the Algorithms: Exploitation of Social Media Platforms by the Alternative Right. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?~
 
 > Holt, L. (2020). Right-Wing Alternative Media
 
 Leituras Complementares
 {: .label .label-purple } 
 
-> ~Cesarino, L. (2022). O Mundo do Avesso: Verdade e Política na Era Digital~
-
 > Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. (2020). Alt-Tech: Co-Opting and Creating Digital Spaces. In Hermansson, P., Lawrence, D., Mulhall, J., & Murdoch, S. The International Alt-Right: Fascism for the 21st Century?
 
 Atividade
 {: .label .label-yellow } 
-
-> ~Análise exploratória de canais do Telegram de direita.~
 
 > Análise exploratória da TRUTH Social.
 > 
